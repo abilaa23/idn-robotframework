@@ -1,0 +1,7 @@
+.venv
+browser
+*.log
+*.xml
+*.html
+*.txt
+__pycache__/
